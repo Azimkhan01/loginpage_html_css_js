@@ -1,2 +1,3 @@
 # loginpage_html_css_js
 This file contain sign up page login page and main index page
+KINDLY START OR OPEN FIRST SIGUP>HTLM PAGE IT REDIRECT TO OTHER PAGE AUTOMATICALLY THROUGH THE PROCESS OF REGISTRATION AND LOGIN 
